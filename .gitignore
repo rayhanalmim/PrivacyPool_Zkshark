@@ -11,5 +11,4 @@ out/
 docs/
 
 # Dotenv file
-config.bat
-node_modules
+.env
